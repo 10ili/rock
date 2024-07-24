@@ -1,0 +1,265 @@
+body{
+    margin: 0;
+    border: 0;
+    background-color: rgb(111, 108, 112);
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background: rgb(81, 80, 82);
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#main_name {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 226, 250)
+}
+#sub_name {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 226, 250)
+}
+#links {
+    background-color: rgb(43, 40, 38);
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.info_link {
+    border-right: 1px solid snow;
+    font-style: italic;
+    font-family: Arial;
+    border-radius: 3px;
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-decoration: none;
+    text-align: center;
+}
+#post1 {
+    padding: 0;
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 30px;
+    width:300px ;
+    padding-left: 10%;
+    border-radius: 10% ;
+}
+#photo1 {
+    width: 300px;
+    height: 208px;
+    border-radius: 10%;
+}
+.text1 {
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 38px;
+
+}
+#post2 {
+    
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 30px;
+    width:300px ;
+    padding-left: 10%;
+    border-radius: 10% ;
+}
+#photo2 {
+    width: 300px;
+    height: 208px;
+    border-radius: 10% ;
+    
+}
+.text2 {
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 38px;
+
+}
+
+#post3 {
+    
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 30px;
+    width:300px ;
+    padding-left: 10%;
+    border-radius: 10% ;
+    
+}
+
+#photo3 {
+    width: 300px;
+    height: 280px;
+    border-radius: 10% ;
+    
+}
+
+.text3 {
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 38px;
+
+}
+
+
+#photo4 {
+    width: 400px;
+    height: 280px;
+    padding-top: 1%;
+    padding-left: 2%;
+    border-radius: 10% ;
+}
+
+.text4 {
+
+    color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+    text-align:center;
+    font-size: 20px;
+
+}
+
+#photo6 {
+    width: 400px;
+    height: 280px;
+    border-radius: 10% ;
+    padding-top: 1%;
+    padding-left: 2%;
+}
+
+.text6 {
+    color: rgb(255, 255, 255);
+    text-align:center;
+    font-size: 18px;
+
+}
+.centrtext {
+    color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+    padding-top: 20px;
+    text-align:center;
+    font-size: 35px;
+    
+}
+#card1 {
+    background-color: aliceblue;
+    width: 250px;
+    height: 500px;
+    padding: 0;
+    margin: 0;
+    border-radius: 5%;
+    margin-top: 1%;
+    margin-left: 20%;
+
+}
+#card2 {
+    background-color: aliceblue;
+    width: 250px;
+    height: 500px;
+    padding: 0;
+    margin: 0;
+    border-radius: 5%;
+    margin-top: 1%;
+    margin-left: 20%;
+
+    
+}
+#card3 {
+    background-color: aliceblue;
+    width: 250px;
+    height: 500px;
+    padding: 0;
+    margin: 0;
+    border-radius: 5%;
+    margin-top: 1%;
+    margin-left: 20%;
+
+}
+#bordercard{
+    padding-top: 20px ;
+    padding-left: 119px;
+    border-bottom: black 6px solid;
+}
+
+.typecurse1{
+    color: rgb(10, 10, 10);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 38px; 
+    padding-top: 30px;
+}
+.typecurse2{
+    color: rgb(19, 71, 131);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 38px; 
+    padding-top: 30px;
+}
+.typecurse3{
+    color: rgb(172, 23, 23);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 38px; 
+    padding-top: 30px;
+}
+.price{
+    color: rgb(0, 0, 0);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 30px; 
+    padding-top: 10px;
+}
+.raznica{
+    font-size: 19px; 
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.info_link1{
+    color: rgb(0, 0, 0);
+    padding: 0;
+    margin: 0;
+    margin-left: 35px;
+    font-size: 35px; 
+    text-decoration:overline;
+    
+}
+#zapis{
+    background-color: rgb(42, 200, 221);
+    width: 300px;
+    height: 550px;
+    padding: 0;
+    margin: 0;
+    border-radius: 5%;
+    margin-top: 40px;
+    margin-left: 15%;
+    
+}
+.raznica1{
+    font-size: 25px; 
+    padding-left: 10px;
+    padding-top: 3px;
+}
